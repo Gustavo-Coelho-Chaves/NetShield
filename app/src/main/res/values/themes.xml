@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NetShield" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/backgroundEscuro</item>
+        <item name="colorPrimaryVariant">@color/cardEscuro</item>
+        <item name="colorOnPrimary">@color/branco</item>
+        <item name="android:windowBackground">@color/backgroundEscuro</item>
+    </style>
+</resources>

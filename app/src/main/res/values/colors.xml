@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundEscuro">#0F172A</color>
+    <color name="cardEscuro">#1E293B</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="verdeSeguro">#16A34A</color>
+    <color name="amareloMedio">#EAB308</color>
+    <color name="vermelhoFragil">#DC2626</color>
+</resources>
